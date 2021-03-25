@@ -1,4 +1,5 @@
 Follow instructions to run the automation code on Windows OS:
+
 ⦁	Install JAVA JDK 8 
 ⦁	Install Eclipse IDE
 ⦁	Configure JDK and JRE environment path as ⦁	Guide
