@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="93.23">
+<testcase classname="Login on the Sauce Labs Testing" name="Purchase flow until defining payment information" time="92.513">
+<system-out><![CDATA[Given Homepage has been loaded..............................................passed
+When search a product.......................................................passed
+And choose buy the product and fill personal credentials....................passed
+Then Validate that Free Shipping............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
